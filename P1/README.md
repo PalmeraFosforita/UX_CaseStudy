@@ -1,11 +1,4 @@
-## DIU - Practica1, entregables
-
-
-- Desk research: Análisis Competencia 
-- 2 Personas 
-- 2 User Journey Map  ( 1 por persona)
-- Revisión de Usabilidad 
-
-
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Incluya aquí simpre una valoración final del equipo sobre la propia realización de la práctica
+## User Research Plan
+Se va a analizar la web de Kerarqueo que es un comercio de cerámica artesanal y cursos sobre esta. El objetivo de este análisis es mojerar el diseño de la plataforma en el ambito de la venta de cursos y productos relacionados con al cerámica. Se busca mejorar la experiencia del usuario mediante la comprensión del mismo.
+A través de diferentes técnicas como entrevistas, encuestas y distintos análisis se obtendran datos cualitativos y cuantitativos sobre el diseño de la web.
+Carecemos de experiencia en el sector de la cerámica pero poseemos unos amplios conocimientos en diferentes comercios online de diversos sectores.
