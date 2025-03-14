@@ -49,16 +49,16 @@ Se va a analizar la web de Kerarqueo que es un comercio de cerámica artesanal y
 
 
 ### 1.c Personas
-![Método UX](img/Persona.png) 
------
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
+![Persona_1_page-0001](https://github.com/user-attachments/assets/ebb3a784-15f4-4de4-acef-804a6172edf0)
 
+![Persona_2_page-0001](https://github.com/user-attachments/assets/c9eec170-47af-42e0-bbdd-fd38f4e37e4a)
 
 ### 1.d User Journey Map
+
 ![Persona_1 Journey Map](https://github.com/user-attachments/assets/10a3de31-2c77-41c9-a087-b8c64a235c19)
  
-
+![Persona_2 _Journey Map_page-0001](https://github.com/user-attachments/assets/1734d85d-0506-46eb-8478-e22311fa9590)
 
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
