@@ -41,17 +41,9 @@ Miembros:
 
 
 ### 1.a User Reseach Plan
-![Método UX](img/Competitive.png) 
------
-
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
-
+Se va a analizar la web de Kerarqueo que es un comercio de cerámica artesanal y cursos sobre esta. El objetivo de este análisis es mojerar el diseño de la plataforma en el ambito de la venta de cursos y productos relacionados con la cerámica. Se busca mejorar la experiencia del usuario mediante la comprensión del mismo. Para la detección de los problemas de usabilidad se usarán diferentes técnicas como: · La comparación con sittios webs de la competencia. · La creación de dos personas ficticias junto con sus journey maps para simular interacciones típicas. · Aplicaremos una evaluación usando el template UX proporcionado. Finalmente realizaremos una serie de recomendaciones basándonos en los datos obtenidos. Carecemos de experiencia en el sector de la cerámica pero poseemos unos amplios conocimientos en diferentes comercios online de diversos sectores.
 
 ### 1.b Competitive Analysis
-![Método UX](img/Competitive.png) 
------
-
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
 
 
 ### 1.c Personas
@@ -62,10 +54,8 @@ Miembros:
 
 
 ### 1.d User Journey Map
-![Método UX](img/JourneyMap.png) 
-----
-
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
+![Persona_1 Journey Map](https://github.com/user-attachments/assets/10a3de31-2c77-41c9-a087-b8c64a235c19)
+ 
 
 
 ### 1.e Usability Review
