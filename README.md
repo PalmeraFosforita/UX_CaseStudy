@@ -62,7 +62,7 @@ Se va a analizar la web de Kerarqueo que es un comercio de cerámica artesanal y
 
 ### 1.e Usability Review
 
-![](https://github.com/PalmeraFosforita/UX_CaseStudy/blob/master/P1/Usability-review.ods)
+[Usability Review](https://github.com/PalmeraFosforita/UX_CaseStudy/blob/master/P1/Usability-review.ods)
 
 Obtiene un 69 de puntuacion.
 
