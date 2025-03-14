@@ -45,7 +45,8 @@ Se va a analizar la web de Kerarqueo que es un comercio de cerámica artesanal y
 
 ### 1.b Competitive Analysis
 
-![Uploading Competitor Analysis_page-0001.jpg…]()
+![Competitor Analysis_page-0001](https://github.com/user-attachments/assets/59a9cd02-b351-4609-9838-61ab0daf8d42)
+
 
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
