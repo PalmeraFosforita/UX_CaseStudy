@@ -37,9 +37,6 @@ Miembros:
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
-
 ### 1.a User Reseach Plan
 Se va a analizar la web de Kerarqueo que es un comercio de cerámica artesanal y cursos sobre esta. El objetivo de este análisis es mojerar el diseño de la plataforma en el ambito de la venta de cursos y productos relacionados con la cerámica. Se busca mejorar la experiencia del usuario mediante la comprensión del mismo. Para la detección de los problemas de usabilidad se usarán diferentes técnicas como: · La comparación con sittios webs de la competencia. · La creación de dos personas ficticias junto con sus journey maps para simular interacciones típicas. · Aplicaremos una evaluación usando el template UX proporcionado. Finalmente realizaremos una serie de recomendaciones basándonos en los datos obtenidos. Carecemos de experiencia en el sector de la cerámica pero poseemos unos amplios conocimientos en diferentes comercios online de diversos sectores.
 
