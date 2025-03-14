@@ -61,15 +61,10 @@ Se va a analizar la web de Kerarqueo que es un comercio de cerámica artesanal y
 ![Persona_2 _Journey Map_page-0001](https://github.com/user-attachments/assets/1734d85d-0506-46eb-8478-e22311fa9590)
 
 ### 1.e Usability Review
-![Método UX](img/usabilityReview.png) 
-----
 
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+![](https://github.com/PalmeraFosforita/UX_CaseStudy/blob/master/P1/Usability-review.ods)
 
-<br>
+Obtiene un 69 de puntuacion.
 
 ## Paso 2. UX Design  
 
