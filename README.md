@@ -65,12 +65,12 @@ Obtiene un 69 de puntuacion.
 
 ## Paso 2. UX Design  
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
+
 
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ![Método UX](img/feedback-capture-grid.png) 
 ----
-
+![Método UX](https://github.com/PalmeraFosforita/UX_CaseStudy/blob/master/P2/Feedback%20Capture%20Grid.png)
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
 
 
