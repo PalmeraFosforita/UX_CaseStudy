@@ -89,13 +89,13 @@ Obtiene un 69 de puntuacion.
 
 ![Sitemap](https://github.com/PalmeraFosforita/UX_CaseStudy/blob/master/P2/Sitemap.png)
 
-![Labelling](https://github.com/PalmeraFosforita/UX_CaseStudy/blob/master/P2/labelling.odt) 
+[Labelling](https://github.com/PalmeraFosforita/UX_CaseStudy/blob/master/P2/labelling.odt) 
 
 ### 2.d Wireframes
 
-![Wireframes manual](https://github.com/PalmeraFosforita/UX_CaseStudy/blob/master/P2/Bocetos_a_mano.pdf) 
+[Wireframes manual](https://github.com/PalmeraFosforita/UX_CaseStudy/blob/master/P2/Bocetos_a_mano.pdf) 
 
-![Wireframes figma](https://github.com/PalmeraFosforita/UX_CaseStudy/blob/master/P2/bocetos-figma.pdf) 
+[Wireframes figma](https://github.com/PalmeraFosforita/UX_CaseStudy/blob/master/P2/bocetos-figma.pdf) 
 
 <br>
 
