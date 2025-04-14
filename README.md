@@ -75,7 +75,7 @@ Obtiene un 69 de puntuacion.
 
 ### 2.b ScopeCanvas
 
-![ScopeCanvas](https://github.com/PalmeraFosforita/UX_CaseStudy/blob/master/P2/scope_canvas.odp)
+[ScopeCanvas](https://github.com/PalmeraFosforita/UX_CaseStudy/blob/master/P2/scope_canvas.odp)
 
 ### 2.b User Flow (task) analysis 
 
