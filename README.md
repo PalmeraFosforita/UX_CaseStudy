@@ -101,8 +101,6 @@ Obtiene un 69 de puntuacion.
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 
 ### 3.a Moodboard
 
@@ -118,15 +116,15 @@ Obtiene un 69 de puntuacion.
 
 ### 3.c Guidelines
 
-[Método UX](https://github.com/PalmeraFosforita/UX_CaseStudy/blob/master/P3/guidelines.odt)
+[Guidelines](https://github.com/PalmeraFosforita/UX_CaseStudy/blob/master/P3/guidelines.odt)
 
 ### 3.d Mockup
 
-[Método UX](https://www.figma.com/design/RmxUR8LE3bxbivaD4IAYlw/Untitled?node-id=0-1&t=92L2xXFbmjnkxGFr-1) 
+[Mockup](https://www.figma.com/design/RmxUR8LE3bxbivaD4IAYlw/Untitled?node-id=0-1&t=92L2xXFbmjnkxGFr-1) 
 
 ### 3.e ¿My UX-Case Study?
 
-[Método UX](https://www.figma.com/proto/RmxUR8LE3bxbivaD4IAYlw/Untitled?node-id=2-359&p=f&t=AFEAdnieamRiNxPY-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1) 
+[UX-Case Study](https://www.figma.com/proto/RmxUR8LE3bxbivaD4IAYlw/Untitled?node-id=2-359&p=f&t=AFEAdnieamRiNxPY-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1) 
 
 <br>
 
