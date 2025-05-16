@@ -121,18 +121,12 @@ Obtiene un 69 de puntuacion.
 [Método UX](https://github.com/PalmeraFosforita/UX_CaseStudy/blob/master/P3/guidelines.odt)
 
 ### 3.d Mockup
-![Método UX](img/mockup.png) 
-----
 
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
-
+[Método UX](https://www.figma.com/design/RmxUR8LE3bxbivaD4IAYlw/Untitled?node-id=0-1&t=92L2xXFbmjnkxGFr-1) 
 
 ### 3.e ¿My UX-Case Study?
-![Método UX](img/caseStudy.png) 
------
 
->>> Publicar my Case Study en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
->>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
+[Método UX](https://www.figma.com/proto/RmxUR8LE3bxbivaD4IAYlw/Untitled?node-id=2-359&p=f&t=AFEAdnieamRiNxPY-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1) 
 
 <br>
 
