@@ -5,7 +5,10 @@ Prácticas Diseño Interfaces de Usuario (Tema: .... )
 
 Grupo: DIUx_AABB.  Curso: 2024/25 
 
-Actualizado: xx/xx/2025
+Actualizado: 16/05/2025
+
+Enlace layout hi-fi:
+https://www.figma.com/proto/RmxUR8LE3bxbivaD4IAYlw/layout_hi-fi?node-id=2-51&t=LVN78XnzukW0aWbK-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 Proyecto: 
 
@@ -20,7 +23,7 @@ Logotipo:
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
 Miembros:
- * :bust_in_silhouette:  AA     :octocat:     
+ * :bust_in_silhouette:  Gabriel Peña Arias     :octocat:     
  * :bust_in_silhouette:  BB     :octocat:
 
 >>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
