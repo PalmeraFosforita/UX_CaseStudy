@@ -114,6 +114,7 @@ Obtiene un 69 de puntuacion.
 
 
 ### 3.b Landing Page
+
 ![Método UX](img/landing-page.png) 
 ----
 
@@ -121,12 +122,8 @@ Obtiene un 69 de puntuacion.
 
 
 ### 3.c Guidelines
-![Método UX](img/guidelines.png) 
-----
 
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
-
+[Método UX]https://github.com/PalmeraFosforita/UX_CaseStudy/blob/master/P3/guidelines.odt
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
