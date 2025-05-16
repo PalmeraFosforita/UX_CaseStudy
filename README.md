@@ -24,7 +24,7 @@ Logotipo:
 
 Miembros:
  * :bust_in_silhouette:  Gabriel Peña Arias     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:  Luis Manzano Arroyo     :octocat:
 
 >>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
 
