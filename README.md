@@ -105,13 +105,8 @@ Obtiene un 69 de puntuacion.
 
 
 ### 3.a Moodboard
-![Método UX](img/moodboard.png)
------
 
->>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
-
+![Método UX](https://github.com/PalmeraFosforita/UX_CaseStudy/blob/master/P3/Moodboard.png)
 
 ### 3.b Landing Page
 
@@ -123,7 +118,7 @@ Obtiene un 69 de puntuacion.
 
 ### 3.c Guidelines
 
-[Método UX]https://github.com/PalmeraFosforita/UX_CaseStudy/blob/master/P3/guidelines.odt
+[Método UX](https://github.com/PalmeraFosforita/UX_CaseStudy/blob/master/P3/guidelines.odt)
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
