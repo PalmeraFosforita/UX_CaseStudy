@@ -119,7 +119,7 @@ Obtiene un 69 de puntuacion.
 
 ### 3.d Mockup
 
-[Mockup]([https://www.figma.com/proto/RmxUR8LE3bxbivaD4IAYlw/layout_hi-fi?node-id=2-51&p=f&t=8x8qdqLr6Iq4juiu-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1](https://www.figma.com/design/RmxUR8LE3bxbivaD4IAYlw/Untitled?node-id=0-1&t=92L2xXFbmjnkxGFr-1)
+[Mockup](https://www.figma.com/proto/RmxUR8LE3bxbivaD4IAYlw/layout_hi-fi?node-id=2-51&p=f&t=8x8qdqLr6Iq4juiu-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1](https://www.figma.com/design/RmxUR8LE3bxbivaD4IAYlw/Untitled?node-id=0-1&t=92L2xXFbmjnkxGFr-1)
 
 ### 3.e ¿My UX-Case Study?
 
