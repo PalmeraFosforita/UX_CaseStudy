@@ -111,11 +111,7 @@ Obtiene un 69 de puntuacion.
 
 ### 3.b Landing Page
 
-![Método UX](img/landing-page.png) 
-----
-
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
-
+[Landing Page](https://github.com/PalmeraFosforita/UX_CaseStudy/blob/master/P3/Landing_page_figma.pdf) 
 
 ### 3.c Guidelines
 
