@@ -134,6 +134,9 @@ Obtiene un 69 de puntuacion.
 -----
 
 >>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
+Caso-B: https://github.com/DIU3-cristiancar/UX_CaseStudy
+El caso es una página de compra de ropa online.
+
 >>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
 
 
