@@ -144,10 +144,10 @@ Obtiene un 69 de puntuacion.
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Alberto  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
+| Jacinto  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
+| Dolores  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
+| Esteban  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
 
 
 ### 4.b Diseño de las pruebas 
