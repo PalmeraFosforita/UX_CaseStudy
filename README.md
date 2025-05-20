@@ -172,6 +172,8 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ### 4.d A/B Testing
 ![Método UX](img/ABtesting.png) 
 -----
+Para el caso A plantearemos un experimento que consistira en buscar la información de un curso y para el caso B el experimento consistira en comprar una camiseta.
+
 
 >>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
 
