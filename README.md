@@ -143,8 +143,8 @@ El caso es una página de compra de ropa online.
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| Alberto  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| Jacinto  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
+| Juan  | H / 22   | Estudiante  | Alta       | Introvertido | móvil.       | A 
+| Gertrudis  | M / 68   | Jubilada  | Baja       | Timida       | móvil        | A 
 | Dolores  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
 | Esteban  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
 
