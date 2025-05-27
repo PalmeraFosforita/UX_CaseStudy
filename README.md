@@ -178,11 +178,12 @@ En ambos casos se pedira al usuario que explore libremente el prototipo que se l
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso | Puntuacion
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ---- | ----------
-| Juan  | H / 22   | Estudiante  | Alta       | Introvertido | móvil.       | A |
-| Gertrudis  | M / 68   | Jubilada  | Baja       | Timida       | móvil        | A |
+| Juan  | H / 22   | Estudiante  | Alta       | Introvertido | móvil.       | A | 81
+| Gertrudis  | M / 68   | Jubilada  | Baja       | Timida       | móvil        | A | 64
 | Luis  | H / 25   | Estudiante     | Media        | Irritable    | móvil      | B | 75
 | Gabriel  | H / 21   | Estudiante  | Media       | Espontaneo     | móvil        | B | 85
 
+Parece que el caso B es mas usable.
 
 >>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
 
