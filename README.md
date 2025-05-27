@@ -12,11 +12,11 @@ https://www.figma.com/proto/RmxUR8LE3bxbivaD4IAYlw/layout_hi-fi?node-id=2-51&t=L
 
 Proyecto: 
 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Kerarqueo
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Rediseñar la pagina web de Kerarqueo para que sea más completa y mas navegable. Se permitira que los usuarios puedan apuntarse a eventos y talleres. 
 
 Logotipo: 
 
