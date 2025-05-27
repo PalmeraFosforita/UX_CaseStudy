@@ -176,6 +176,14 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 En ambos casos se pedira al usuario que explore libremente el prototipo que se le suministra e intente recorrerlo por completo.
 
+| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso | Puntuacion
+| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ---- | ----------
+| Juan  | H / 22   | Estudiante  | Alta       | Introvertido | móvil.       | A |
+| Gertrudis  | M / 68   | Jubilada  | Baja       | Timida       | móvil        | A |
+| Dolores  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B |
+| Esteban  | H / 18   | Estudiante  | Media       | Racional     | Web        | B |
+
+
 >>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
 
 ### 4.e Aplicación del método Eye Tracking 
