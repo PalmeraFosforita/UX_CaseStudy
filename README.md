@@ -153,8 +153,9 @@ El caso es una página de compra de ropa online.
 ![Método UX](img/usability-testing.png) 
 -----
 
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
 Se va a llevar a cabo A/B testing, tras lo cual se suministrara a los usuarios un cuestionario sus para que lo rellenen.
+
+>>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
 
 
 ### 4.c Cuestionario SUS
