@@ -195,6 +195,7 @@ En ambos casos se pedira al usuario que explore libremente el prototipo que se l
 ![Método UX](img/usability-report.png) 
 -----
 
+[Usability Report](https://github.com/PalmeraFosforita/UX_CaseStudy/blob/master/P4/Usability-Report.md)
 >>> Añadir report de usabilidad para práctica B (la de los compañeros) aportando resultados y valoración de cada debilidad de usabilidad. 
 >>> Enlazar aqui con el archivo subido a P4/ que indica qué equipo evalua a qué otro equipo.
 
