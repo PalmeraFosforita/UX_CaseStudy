@@ -38,7 +38,7 @@ Informe realizado por Equipo PalmeraFosforita. Hemos encontrado que el sitio web
 
 ## 1 DESCRIPCIÓN DEL WEBSITE
 
-[Incluir un breve resumen el propósito de la App]
+Se trate de una app para una empresa de venta de ropa. La app permite ver el catalogo disponible en las tiendas de la empresa, ofrece información de contacto y sobre las tiendas y permite que los usuarios registrados compren y reserven los articulos disponibles en el sitio web.
 
  
 
