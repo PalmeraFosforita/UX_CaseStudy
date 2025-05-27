@@ -14,7 +14,6 @@
 
 
 
-[img Proyecto]
 
 [Enlace a GITHUB del proyecto](https://github.com/DIU3-cristiancar/UX_CaseStudy)
 
@@ -46,11 +45,10 @@ Se trate de una app para una empresa de venta de ropa. La app permite ver el cat
 
 ## 2 RESUMEN EJECUTIVO
 
+Este documento contiene una evalución de la usabilidad del proyecto centrada el prototipo de su aplicación movil y su landing page.
 
+En cuanto a los problemas detectado lo unico realmente notable es que varios botones del menu llevan al mismo sitio lo cual afecta negativamente a la navigabilidad y puede confundir al usuario.
 
-[ Breve descripción de lo que contiene el documento 
-
-y Resumen conciso de problemas detectados ]
 
 
 
@@ -64,25 +62,25 @@ y Resumen conciso de problemas detectados ]
 
 #### Metodología de usabililidad
 
-[Metodología, sesiones,  técnicas aplicadas... ]
-
- 
+Hemos pedido a los usuario que explorasen la pagina e intentaran acceder a la totalidad de las misma, tras esto les hemos suministrado un cuestionario SUS. tambien hemos hecho uso de tests de eye tracking.
 
 #### Test de usuarios: Participantes
 
-[tabla, ejemplo, descripción demográfica de los participantes]
-
-
-
-
+| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma
+| ------------- | -------- | ----------- | ----------- | -----------  | ----------  
+| Luis  | H / 25   | Estudiante     | Media        | Irritable    | móvil    
+| Gabriel  | H / 21   | Estudiante  | Media       | Espontaneo     | móvil   
 
 #### Resultados obtenidos
 
 
 
-(resultado de SUS)
+Los resultados del cuestionario SUS han sido los siguientes:
 
-
+| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Puntuacion
+| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----------
+| Luis  | H / 25   | Estudiante     | Media        | Irritable    | móvil      | 75
+| Gabriel  | H / 21   | Estudiante  | Media       | Espontaneo     | móvil        | 85
 
 (resultado de eyetracking)
 
@@ -96,34 +94,26 @@ y Resumen conciso de problemas detectados ]
 
 ## 4 CONCLUSIONES 
 
-
-
-(qué podemos extraer de conclusion con las pruebas de usabilidad efectuadas)
-
-
+Consideramos que el proyecto solo requiere retoques minimos antes de ser considerado viable para ser puesto en desarrollo y su posterior uso comercial.
 
 #### Incidencias
 
-* (indicad si algo ha fallado o no se ha podido realizar correctamente por algún motivo)
-
-
+No se han producido incidencias notables en relación con la evaluación de este proyecto.
 
 #### Valoración 
 
-* (Puntos Positivos a destacar)
+* Landing page completa y funcional.
+* Paleta de colores adecuada.
+* Diseño claro y generalmente intuitivo para la navegación.
+* Aspecto visual excelente.
 
 
 
 #### Recomendaciones y propuesta de mejoras: 
 
-* (Puntos de mejora)
-
-
-
-
-
+* Es necesario que cada boton del menu lleve a una pagina distinta. 
 
 
 #### Valoración de la prueba de usabilidad (self-assesment)
 
-(valoración personal de si han sido útiles estas técnicas para detectar errores ocultos o falllos de usabilidad en este caso )
+Creemos haber detectado las principales deficiencias y puntos fuertes haciendo uso de las tecnicas planteadas.
