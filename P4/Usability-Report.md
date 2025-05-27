@@ -82,7 +82,7 @@ Los resultados del cuestionario SUS han sido los siguientes:
 | Luis  | H / 25   | Estudiante     | Media        | Irritable    | móvil      | 75
 | Gabriel  | H / 21   | Estudiante  | Media       | Espontaneo     | móvil        | 85
 
-(resultado de eyetracking)
+Los resultados de eyetracking han sido los siguientes:
 
 
 
