@@ -16,7 +16,7 @@
 
 [img Proyecto]
 
-[Enlace a GITHUB del proyecto]
+[Enlace a GITHUB del proyecto](https://github.com/DIU3-cristiancar/UX_CaseStudy)
 
 
 
