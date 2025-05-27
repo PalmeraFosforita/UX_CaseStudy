@@ -154,7 +154,7 @@ El caso es una página de compra de ropa online.
 -----
 
 >>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
-
+Se va a llevar a cabo A/B testing, tras lo cual se suministrara a los usuarios un cuestionario sus para que lo rellenen.
 
 
 ### 4.c Cuestionario SUS
@@ -172,8 +172,8 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ### 4.d A/B Testing
 ![Método UX](img/ABtesting.png) 
 -----
-Para el caso A plantearemos un experimento que consistira en buscar la información de un curso y para el caso B el experimento consistira en comprar una camiseta.
 
+En ambos casos se pedira al usuario que explore libremente el prototipo que se le suministra e intente recorrerlo por completo.
 
 >>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
 
