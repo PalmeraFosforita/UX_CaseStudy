@@ -24,7 +24,7 @@
 
 ### Realizado por:
 
-[Informe realizado por Equipo (quien hace el report) explicar brevemente vuestra experiencia ]
+Informe realizado por Equipo PalmeraFosforita. Hemos encontrado que el sitio web es bastante completo y es excelente visualmente pero hay problemas de navegación ya que varios botones del menu llevan al mismo sitio. No sabemos si es intencional o un error pero lo consideramos como algo negativo.
 
 
 
