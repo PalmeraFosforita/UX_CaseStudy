@@ -131,61 +131,41 @@ Obtiene un 69 de puntuacion.
 
 ### 4.a Reclutamiento de usuarios 
 ![Método UX](img/usability-testing.png)
------
 
->>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
 Caso-B: https://github.com/DIU3-cristiancar/UX_CaseStudy
 El caso es una página de compra de ropa online.
 
->>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
-
-
+Hemos reclutado a las siguientes personas para que realicen las pruebas:
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| Juan  | H / 22   | Estudiante  | Alta       | Introvertido | móvil.       | A 
-| Gertrudis  | M / 68   | Jubilada  | Baja       | Timida       | móvil        | A 
+| Felipe  | H / 27   | Estudiante  | Alta       | Extrovertida | móvil.       | A 
+| Arturo  | H / 34   | Artista  | Baja       | Solitaria       | móvil        | A 
 | Luis  | H / 25   | Estudiante     | Media        | Irritable    | móvil      | B 
-| Gabriel  | H / 21   | Estudiante  | Media       | Espontaneo     | móvil        | B 
+| Gabriel  | H / 21   | Estudiante  | Media       | Espontanea     | móvil        | B 
 
 
 ### 4.b Diseño de las pruebas 
 ![Método UX](img/usability-testing.png) 
------
 
 Se va a llevar a cabo A/B testing, tras lo cual se suministrara a los usuarios un cuestionario sus para que lo rellenen.
 
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
-
-
 ### 4.c Cuestionario SUS
-![Método UX](img/Survey.png) 
-----
 
 Para el caso A se usara [SUS](https://t.maze.co/389443117) y para el caso B [SUS](https://t.maze.co/392958576). Tienen las mismas preguntas pero un prototipo distinto.
 
->>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
->>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
-
-
 ### 4.d A/B Testing
-![Método UX](img/ABtesting.png) 
------
 
 En ambos casos se pedira al usuario que explore libremente el prototipo que se le suministra e intente recorrerlo por completo.
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso | Puntuacion
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ---- | ----------
-| Juan  | H / 22   | Estudiante  | Alta       | Introvertido | móvil.       | A | 81
-| Gertrudis  | M / 68   | Jubilada  | Baja       | Timida       | móvil        | A | 64
+| Felipe  | H / 27   | Estudiante  | Alta       | Extrovertida | móvil.       | A  | 81
+| Arturo  | H / 34   | Artista  | Baja       | Solitaria       | móvil        | A | 64
 | Luis  | H / 25   | Estudiante     | Media        | Irritable    | móvil      | B | 75
 | Gabriel  | H / 21   | Estudiante  | Media       | Espontaneo     | móvil        | B | 85
 
 Parece que el caso B es mas usable.
-
->>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
 
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
