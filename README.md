@@ -174,6 +174,7 @@ Análisis Eye Tracking caso A:
 ![Análisis Eye Trackin caso A](P4/analisis_casoA.png)
 
 Análisis Eye Tracking caso B:
+
 ![Análisis Eye Trackin caso B](P4/analisis_casoB.png)
 
 
