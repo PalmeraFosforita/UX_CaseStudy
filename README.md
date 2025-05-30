@@ -169,15 +169,12 @@ Parece que el caso B es mas usable.
 
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
-----
 
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
+Análisis Eye Tracking caso A:
+![Análisis Eye Trackin caso A](P4/analisis_casoA.png)
 
-
-![experimento](img/experimentoET.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
-
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
+Análisis Eye Tracking caso B:
+![Análisis Eye Trackin caso B](P4/analisis_casoB.png)
 
 
 ### 4.f Usability Report de B
