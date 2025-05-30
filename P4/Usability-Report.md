@@ -83,7 +83,7 @@ Los resultados del cuestionario SUS han sido los siguientes:
 | Gabriel  | H / 21   | Estudiante  | Media       | Espontaneo     | móvil        | 85
 
 Los resultados de eyetracking han sido los siguientes:
-
+![Resultados](analisis_casoB.png)
 
 
 
