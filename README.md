@@ -160,8 +160,8 @@ En ambos casos se pedira al usuario que explore libremente el prototipo que se l
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso | Puntuacion
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ---- | ----------
-| Felipe  | H / 27   | Estudiante  | Alta       | Extrovertida | móvil.       | A  | 81
-| Arturo  | H / 34   | Artista  | Baja       | Solitaria       | móvil        | A | 64
+| Felipe  | H / 27   | Estudiante  | Alta       | Extrovertida | móvil.       | A  | 80
+| Arturo  | H / 34   | Artista  | Baja       | Solitaria       | móvil        | A | 65
 | Luis  | H / 25   | Estudiante     | Media        | Irritable    | móvil      | B | 75
 | Gabriel  | H / 21   | Estudiante  | Media       | Espontaneo     | móvil        | B | 85
 
